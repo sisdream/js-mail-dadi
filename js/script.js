@@ -1,7 +1,6 @@
-const numbers = [5, 8, 4];
+// array 
+const mailList = ["gojosatoru@prova.it" , "riomensukuna@prova.com" , "mikasasukasa@prova.it" , "diobrando@prova.it" ,];
+console.log("Queste sono le mail: " + mailList);
 
-for (let i = 0; i < numbers.length; i++) {
-
-  const number = numbers[i];
-
-}
+// input
+let mail = prompt("Qual'è la tua email?");
